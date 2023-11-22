@@ -17,7 +17,7 @@ $ git clone https://github.com/mckjs/playwrightjs.git
 
 2. navigate to project path
 ```sh
-$ cd absa
+$ cd playwrightjs
 ```
 
 3. run npm install
