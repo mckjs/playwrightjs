@@ -20,9 +20,10 @@ $ git clone https://github.com/mckjs/playwrightjs.git
 $ cd playwrightjs
 ```
 
-3. run npm install
+3. run npm install and playwright
 ```sh
 $ npm install
+$ npx playwright install
 ```
 
 4. Run API Tests
