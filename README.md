@@ -30,18 +30,7 @@ $ npm install
 $ npm run test:api
 ```
 
-5. Terminal output will look as follows
-
-<sub>
-
-> >absa@1.0.0 test:api \
-> >cross-env ENV=live npx playwright test --project live-api-dog \
->> Running 9 tests using 4 workers \
->> 9 passed (2.3s) \
->> To open last HTML report run: \
->> npx playwright show-report \
-
-</sub>
+5. Wait for tests to run
 
 6. Run Report, a browser tab will open with tests report or go to path playwright-report/index.html, 
     right click and open in browser.
